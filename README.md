@@ -1,5 +1,5 @@
 
-# Hi 🤗
+# Hi i am Purin 🤗
 
 ## Study Computer Engineering at KMITL CE59💻
 
