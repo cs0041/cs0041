@@ -75,8 +75,8 @@ I am a Student  Computer Engineering at KMITL CE59 💻 <img src="https://media.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 </a>
   
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="css3" width="40" height="40"/> 
+ <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/> 
  </a> 
  
 
