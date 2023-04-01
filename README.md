@@ -13,7 +13,7 @@ I am a Student  Computer Engineering at KMITL CE59 💻 <img src="https://media.
 
 - :zap: In my free time, I develop yourself, learn new things.
 
-- :mailbox:How to reach me: soon...
+- :mailbox: How to reach me: soon...
 
 ### :hammer_and_wrench: Languages and Tools :
 
